@@ -7,7 +7,7 @@ widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 
-title: '👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai.'
+title: '👋 Hi I am Tapan Beshra, SEO Expert From Durgapur.'
 subtitle: ''
 
 design:
@@ -32,42 +32,23 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## My Service
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+Onpage optimization,Keyword researching,Website silo structuring,Link Building,organic trafic groth etc.
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+website Onpage-offpage and technical SEO.
 
-## Experience
-
-### Tidbit Games
-
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### AI Soup
-
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-## Education
-
-### Tsinghua University
-
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名
+[{{< icon name="linkedin" pack="fab" >}}linkedin](https://www.linkedin.com/in/tapan-beshra-0682a01a5)  
+[{{< icon name="facebook" pack="fab" >}}facebook](https://www.facebook.com/tapanjosefbeshra)  
+[{{< icon name="quora" pack="fab" >}}quora](https://www.quora.com/profile/Tapan-Beshra)
+
+
 
 ## Credits
 
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
+[Demo background image](https://unsplash.com/photos/IsaP_AkBh7U)
